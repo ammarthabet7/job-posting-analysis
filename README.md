@@ -1,2 +1,2 @@
-# job-posting-analysis
+# job-posting-analysis with power bi
 It is a full data analysis on job posting dataset, each feature has a unique page to get all relations with other features and all its insights. In addition to a summary page that includes important plots only. The important insights as what are the top 10 Companys that offer jobs? what are the most job type required and its title? also the suitable years of experience required for those jobs?
